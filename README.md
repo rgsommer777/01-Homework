@@ -1,5 +1,7 @@
 # Homework-1
 Russ Sommer's first bootcamp homework assignment.
+
+<h1>Assignment:</h1>
 <p>Make Horiseon's website more accessible with use of semantic tags</p>
   
   <h2>index.html</h2>
