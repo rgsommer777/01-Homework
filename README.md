@@ -6,5 +6,6 @@ Russ Sommer's first bootcamp homework assignment.
   <p>Fixed navigation link</p>
   <p>Added alt tags</p>
   <p>Refactored CSS to remove duplication</p>
+</ol>
   
 
