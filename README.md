@@ -10,7 +10,7 @@ Russ Sommer's first bootcamp homework assignment.
   <li>Added alt tags</li>
   <p></p>
    <h2>style.css</h2>
-  <li>Refactored CSS to remove duplication</li>
+  <li>Refactored CSS selectors to remove duplication</li>
 
   
 
